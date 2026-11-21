@@ -1,1 +1,9 @@
-
+streamlit
+pandas
+numpy
+openpyxl
+xlrd
+pyarrow
+lxml
+plotly
+google-genai
